@@ -12,7 +12,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          New branch it is.
         </p>
       </div>
       <p className="read-the-docs">
